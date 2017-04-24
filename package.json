@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@code.teambition.com:tools/policy.git"
+    "url": "git@github.com:foliejs/tool-policy.git"
   },
   "keywords": [
     "policy",

@@ -1,10 +1,10 @@
 {
   "name": "tool-policy",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Policies for Tool Project",
   "main": "index.js",
   "dependencies": {
-    "tool-error": "https://code.teambition.com/tools/error.git"
+    "tool-error": "^1.0.0"
   },
   "devDependencies": {
     "istanbul": "*",
@@ -29,7 +29,7 @@
   "author": "Jack Sun",
   "license": "ISC",
   "bugs": {
-    "url": "https://code.teambition.com/tools/policy/issues"
+    "url": "https://github.com/foliejs/tool-policy/issues"
   },
-  "homepage": "https://code.teambition.com/tools/policy#readme"
+  "homepage": "https://github.com/foliejs/tool-policy#readme"
 }

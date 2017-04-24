@@ -307,10 +307,6 @@ path-is-absolute@^1.0.0:
   version "1.0.1"
   resolved "http://r.cnpmjs.org/path-is-absolute/download/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
-"phoenix-error@git+https://github.com/cyanideio/error":
-  version "0.0.1"
-  resolved "git+https://github.com/cyanideio/error#c8e323f2b699d7fd2bbc918a96b6bea4a182f073"
-
 prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "http://r.cnpmjs.org/prelude-ls/download/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
@@ -407,9 +403,9 @@ taffydb@2.6.2:
   version "2.6.2"
   resolved "http://r.cnpmjs.org/taffydb/download/taffydb-2.6.2.tgz#7cbcb64b5a141b6a2efc2c5d2c67b4e150b2a268"
 
-"tool-error@https://sensitiveMix@bitbucket.org/teambition/error.git":
+tool-error@^1.0.0:
   version "1.0.0"
-  resolved "https://sensitiveMix@bitbucket.org/teambition/error.git#87f19d0f3d47989d838059f2a517bbbe98bb5eee"
+  resolved "https://registry.yarnpkg.com/tool-error/-/tool-error-1.0.0.tgz#cc73847bbd61ea0af4d82f4e62e567756cc00314"
 
 type-check@~0.3.2:
   version "0.3.2"

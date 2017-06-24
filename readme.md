@@ -8,6 +8,8 @@
 ```
 
 # Tool Policy
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/foliejs/tool-policy.svg)](https://greenkeeper.io/)
 Genine Javascript Policy
 - Approves Single Condition
 - Automatically throws errors
